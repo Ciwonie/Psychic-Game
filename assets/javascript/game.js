@@ -58,6 +58,7 @@ document.addEventListener('keypress', function(event){
     document.getElementById('wins').innerHTML = "Wins: " + wins;
     document.getElementById('losses').innerHTML = "Losses: " + losses;
     document.getElementById('guesses-left').innerHTML = "Guesses Left: " + guesses;
+    document.getElementById('guessed').innerHTML = "Guesses Letters: " + guessedLetters;
 
 
 });
