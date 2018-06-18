@@ -1,0 +1,90 @@
+* {
+    text-decoration: none;
+}
+
+body {
+    margin: auto;
+    background-color: #F46197;
+
+}
+
+#introduction {
+    
+
+}
+
+#hold-title {
+    background-color: #FFFDF7; 
+    text-align: center;
+    font-family: 'Eater', cursive, sans-serif;
+    margin: 3px;
+    border: 3px #84BC9C solid;
+    border-radius: 4px;
+
+    
+}
+
+#psychic-line {
+    word-spacing: 5px;
+    letter-spacing: 10px;
+}
+
+#subheading {
+    text-transform: uppercase;
+    font-size: 12px;
+    text-shadow: 3px 2px #BAB9B4;
+    padding: 2px 0;
+}
+
+#caption {
+    background-color: #FFFDF7; 
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    margin: 3px;
+    border: 3px #84BC9C solid;
+    border-radius: 4px;
+    padding: 2px 0;
+}
+
+#img-title {
+    padding: 5px 0;
+}
+
+#dr-strange {
+    height: auto;
+    width: 200px;
+}
+
+#contained-scores {
+    background-color: #FFFDF7; 
+    text-align: center;
+    font-family: 'Roboto Mono', monospace, sans-serif;
+    margin: 3px;
+    border: 3px #84BC9C solid;
+    border-radius: 4px;
+    padding: 2px 0;
+    padding-bottom: 60px;
+}
+
+#ascii pre {
+    color: #0A2342;
+    position: relative;
+}
+
+footer {
+    background-color: #863553;
+    color: #FFFDF7;
+    border-top: 10px #F9A8C6 solid;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+}
+
+#footer-text {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 3px;
+}
